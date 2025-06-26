@@ -1,0 +1,24 @@
+Index: DataTypes/List.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>List1=(\"1,2,3\");\r\n
+===================================================================
+diff --git a/DataTypes/List.py b/DataTypes/List.py
+--- a/DataTypes/List.py	(revision 12af552f4bd6099d8e0636322250541cc09fe733)
++++ b/DataTypes/List.py	(date 1750931433098)
+@@ -1,1 +1,1 @@
+-List1=("1,2,3");
++list1=(1,2,3,)
+Index: DataTypes/Sample.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>Printf(\"Hi\");
+===================================================================
+diff --git a/DataTypes/Sample.py b/DataTypes/Sample.py
+--- a/DataTypes/Sample.py	(revision 12af552f4bd6099d8e0636322250541cc09fe733)
++++ b/DataTypes/Sample.py	(date 1750931433114)
+@@ -1,1 +1,1 @@
+-Printf("Hi");
+\ No newline at end of file
++Print("I joined today");
+\ No newline at end of file

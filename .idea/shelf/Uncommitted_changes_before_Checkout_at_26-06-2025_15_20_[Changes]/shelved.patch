@@ -1,0 +1,246 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+new file mode 100644
+--- /dev/null	(date 1750921360434)
++++ b/.idea/workspace.xml	(date 1750921360434)
+@@ -0,0 +1,93 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="AutoImportSettings">
++    <option name="autoReloadType" value="SELECTIVE" />
++  </component>
++  <component name="ChangeListManager">
++    <list default="true" id="4c382423-fe0e-4632-b086-d211c3f4b84e" name="Changes" comment="">
++      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_26-06-2025_11_05_[Changes]/shelved.patch" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_26-06-2025_11_05_[Changes]1/shelved.patch" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_26-06-2025_11_05__Changes_.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/DataTypes/list.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/DataTypes/sample.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/DataTypes/set.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/DataTypes/tuple.py" afterDir="false" />
++    </list>
++    <option name="SHOW_DIALOG" value="false" />
++    <option name="HIGHLIGHT_CONFLICTS" value="true" />
++    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++    <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="FileTemplateManagerImpl">
++    <option name="RECENT_TEMPLATES">
++      <list>
++        <option value="Python Script" />
++      </list>
++    </option>
++  </component>
++  <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="main" />
++      </map>
++    </option>
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="ROOT_SYNC" value="SYNC" />
++  </component>
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;,
++    &quot;assignee&quot;: &quot;Manjusha-1528&quot;
++  }
++}</component>
++  <component name="GithubPullRequestsUISettings">{
++  &quot;selectedUrlAndAccountId&quot;: {
++    &quot;url&quot;: &quot;https://github.com/Manjusha-1528/QA-Session.git&quot;,
++    &quot;accountId&quot;: &quot;98d95f90-3296-482e-92f6-017bfa031dc9&quot;
++  }
++}</component>
++  <component name="HighlightingSettingsPerFile">
++    <setting file="file://$PROJECT_DIR$/DataTypes/sample.py" root0="SKIP_INSPECTION" />
++    <setting file="file://$PROJECT_DIR$/DataTypes/set.py" root0="SKIP_INSPECTION" />
++  </component>
++  <component name="ProjectColorInfo">{
++  &quot;associatedIndex&quot;: 3
++}</component>
++  <component name="ProjectId" id="2z0Dc2sDkz4yc0HGmJtszeoGS3o" />
++  <component name="ProjectViewState">
++    <option name="hideEmptyMiddlePackages" value="true" />
++    <option name="showLibraryContents" value="true" />
++  </component>
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "ModuleVcsDetector.initialDetectionPerformed": "true",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
++    "RunOnceActivity.git.unshallow": "true",
++    "git-widget-placeholder": "qa-manju",
++    "last_opened_file_path": "C:/QA-Session",
++    "settings.editor.selected.configurable": "vcs.Git"
++  }
++}]]></component>
++  <component name="SharedIndexes">
++    <attachedChunks>
++      <set>
++        <option value="bundled-python-sdk-53e2683a6804-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26094.141" />
++      </set>
++    </attachedChunks>
++  </component>
++  <component name="TaskManager">
++    <task active="true" id="Default" summary="Default task">
++      <changelist id="4c382423-fe0e-4632-b086-d211c3f4b84e" name="Changes" comment="" />
++      <created>1750859172294</created>
++      <option name="number" value="Default" />
++      <option name="presentableId" value="Default" />
++      <updated>1750859172294</updated>
++    </task>
++    <servers />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_26-06-2025_11_05__Changes_.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_26-06-2025_11_05__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Checkout_at_26-06-2025_11_05__Changes_.xml
+new file mode 100644
+--- /dev/null	(date 1750916175539)
++++ b/.idea/shelf/Uncommitted_changes_before_Checkout_at_26-06-2025_11_05__Changes_.xml	(date 1750916175539)
+@@ -0,0 +1,4 @@
++<changelist name="Uncommitted_changes_before_Checkout_at_26-06-2025_11_05_[Changes]" date="1750916149900" recycled="false" toDelete="true">
++  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_26-06-2025_11_05_[Changes]/shelved.patch" />
++  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 26-06-2025 11:05 [Changes]" />
++</changelist>
+\ No newline at end of file
+Index: .idea/inspectionProfiles/profiles_settings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/inspectionProfiles/profiles_settings.xml b/.idea/inspectionProfiles/profiles_settings.xml
+new file mode 100644
+--- /dev/null	(date 1750916490046)
++++ b/.idea/inspectionProfiles/profiles_settings.xml	(date 1750916490046)
+@@ -0,0 +1,6 @@
++<component name="InspectionProjectProfileManager">
++  <settings>
++    <option name="USE_PROJECT_PROFILE" value="false" />
++    <version value="1.0" />
++  </settings>
++</component>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1750916763612)
++++ b/.idea/misc.xml	(date 1750916763612)
+@@ -0,0 +1,7 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Black">
++    <option name="sdkName" value="Python 3.12" />
++  </component>
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12" project-jdk-type="Python SDK" />
++</project>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1750916490080)
++++ b/.idea/vcs.xml	(date 1750916490080)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: DataTypes/set.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/DataTypes/set.py b/DataTypes/set.py
+new file mode 100644
+--- /dev/null	(date 1750916729940)
++++ b/DataTypes/set.py	(date 1750916729940)
+@@ -0,0 +1,1 @@
++set=1
+\ No newline at end of file
+Index: DataTypes/list.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/DataTypes/list.py b/DataTypes/list.py
+new file mode 100644
+--- /dev/null	(date 1750916763274)
++++ b/DataTypes/list.py	(date 1750916763274)
+@@ -0,0 +1,1 @@
++list1=(1,2,3,)
+Index: DataTypes/sample.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/DataTypes/sample.py b/DataTypes/sample.py
+new file mode 100644
+--- /dev/null	(date 1750916811657)
++++ b/DataTypes/sample.py	(date 1750916811657)
+@@ -0,0 +1,1 @@
++Print("I joined today");
+\ No newline at end of file
+Index: DataTypes/tuple.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/DataTypes/tuple.py b/DataTypes/tuple.py
+new file mode 100644
+--- /dev/null	(date 1750916153421)
++++ b/DataTypes/tuple.py	(date 1750916153421)
+@@ -0,0 +1,1 @@
++tuple()
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_26-06-2025_11_05_[Changes]/shelved.patch
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_26-06-2025_11_05_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Checkout_at_26-06-2025_11_05_[Changes]/shelved.patch
+new file mode 100644
+--- /dev/null	(date 1750916153489)
++++ b/.idea/shelf/Uncommitted_changes_before_Checkout_at_26-06-2025_11_05_[Changes]/shelved.patch	(date 1750916153489)
+@@ -0,0 +1,16 @@
++Index: .idea/vcs.xml
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
++<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"VcsDirectoryMappings\">\r\n    <mapping directory=\"\" vcs=\"Git\" />\r\n    <mapping directory=\"$PROJECT_DIR$/QA-Session\" vcs=\"Git\" />\r\n  </component>\r\n</project>
++===================================================================
++diff --git a/.idea/vcs.xml b/.idea/vcs.xml
++--- a/.idea/vcs.xml	(revision 6fde0ed7916aa3af00ff9e8dc10c17b97067ef11)
+++++ b/.idea/vcs.xml	(date 1750873931779)
++@@ -2,6 +2,5 @@
++ <project version="4">
++   <component name="VcsDirectoryMappings">
++     <mapping directory="" vcs="Git" />
++-    <mapping directory="$PROJECT_DIR$/QA-Session" vcs="Git" />
++   </component>
++ </project>
++\ No newline at end of file
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_26-06-2025_11_05_[Changes]1/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Checkout_at_26-06-2025_11_05_[Changes]1/shelved.patch
+new file mode 100644
