@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c382423-fe0e-4632-b086-d211c3f4b84e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DataTypes/Operators/Arithmetic operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/Operators/Assignment operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/Operators/Operator Presendence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/Operators/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/Operators/comparision.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/Operators/identity opeartors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/Operators/logical opeartor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/Type Conversions/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/Type Conversions/type conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/basic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4c382423-fe0e-4632-b086-d211c3f4b84e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,24 +50,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Arithmetic operators.executor": "Run",
-    "Python.Assignment operator.executor": "Run",
-    "Python.Operator Presendence.executor": "Run",
-    "Python.basic.executor": "Run",
-    "Python.identity opeartors.executor": "Run",
-    "Python.logical opeartor.executor": "Run",
-    "Python.type conversion.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/QA-Session",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Arithmetic operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Assignment operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Operator Presendence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.identity opeartors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.logical opeartor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.type conversion.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/QA-Session&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.Operator Presendence">
     <configuration name="Arithmetic operators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="QA-Session" />
